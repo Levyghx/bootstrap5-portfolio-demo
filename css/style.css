@@ -8,7 +8,8 @@ h1 {
 }
 
 #img1 {
-    width: 80%;
+    width: 100%;
+    margin-left: 100px;
 }
 
 #kapcsolat_header {
@@ -29,7 +30,7 @@ span {
 }
 
 #p3 {
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .navbar-text {
